@@ -9,3 +9,4 @@ Este projeto tem como objetivo identificar quais variáveis possuem maior relaç
 <p align="center">
   <img src="images/Tab_Dinamicas2.png" width="800">
 </p>
+## Estrutura do Projeto
