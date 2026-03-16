@@ -162,12 +162,11 @@ De forma geral, os resultados indicam que o volume de compra é o principal fato
 
 \## Dashboard
 
+## Dashboard
+
 <p align="center">
-
-&#x20; <img src="images/dashboard.png" width="800">
-
+  <img src="images/dashboard.PNG" width="800">
 </p>
-
 
 
 \## Principais Insights
