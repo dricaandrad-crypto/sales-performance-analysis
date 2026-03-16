@@ -165,7 +165,7 @@ De forma geral, os resultados indicam que o volume de compra é o principal fato
 ## Dashboard
 
 <p align="center">
-  <img src="images/Dashboard_vendas.png" width="800">
+  <img src="images/Dashboard_vendas.PNG" width="800">
 </p>
 
 
